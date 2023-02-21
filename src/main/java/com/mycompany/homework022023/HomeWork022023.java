@@ -21,7 +21,7 @@ public class HomeWork022023 {
     
     public static void main(String[] args){
     int total = sumofm7(20,50);
-    System.out.print(total);
+    System.out.print(total); 
     }
    /* 
     public static void printHelloWorld(int n) {
